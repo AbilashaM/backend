@@ -1,0 +1,26 @@
+{
+    "data" : [
+        {
+            "name" : "Laser",
+            "id" : "hash value",
+            "power" : 20,
+            "power_against_shield" : 5,
+            "level" : 2,
+            "assets" :{
+                "android" : "url",
+                "ios" : "url"
+            }
+        },
+        {
+            "name" : "Bullets",
+            "id" : "hash value",
+            "power" : 20,
+            "power_against_shield" : 5,
+            "level" : 2,
+            "assets" :{
+                "android" : "url",
+                "ios" : "url"
+            }
+        }
+    ]
+}

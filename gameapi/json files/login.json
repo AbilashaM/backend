@@ -1,0 +1,39 @@
+{
+    "data":{
+    "player earning":{
+        "pilot_id":"1",
+        "XP earned":"20",
+        "cerdit_balanced":"200"
+    },
+    "unlock_item":["hash values"],
+    "stats":{
+        "days_in_space":"5",
+        "Missions_passed":"3",
+        "Missions_failed":"2",
+        "Overall_Rewards_earned":"200",
+        "Overall_Credits_earned" :"500",
+        "Overall_Credits_spent":"200",
+        "Satellite_takedowns":"4",
+        "Spaceship_takedowns":"5",
+        "Rocket_takedowns":"4"
+
+    },
+    "spaceship":[
+        {"id":"1",
+        "Image":"url",
+        "Assets":{
+            "android" : "url",
+            "ios" : "url"
+        },
+        "Name":"SPACESHIP1",
+        "Description":"DESCRIPTION",
+        "Upgrades_available":["Upgrades"],
+        "Upgraded_so_far":["Upgrades"],
+        "Mission_details":["ID"]
+
+        }
+    ]
+
+}
+
+}

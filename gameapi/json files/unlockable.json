@@ -1,0 +1,40 @@
+{
+    "data" : [
+        {
+            "name" : "Weapon addon1",
+            "id" : "hash value",
+            "xp_required" : 4000,
+            "unlockable_in_mission" : 5,
+            "image" : "url",
+            "description" : "description text here",
+            "assets" :{
+                "android" : "url",
+                "ios" : "url"
+            },
+            "power" :[
+                {
+                    "against_shield" : 20,
+                    "without_shield" : 50
+                }
+            ]
+        },
+        {
+            "name" : "Weapon addon2",
+            "id" : "hash value",
+            "xp_required" : 4000,
+            "unlockable_in_mission" : 5,
+            "image" : "url",
+            "description" : "description text here",
+            "assets" :{
+                "android" : "url",
+                "ios" : "url"
+            },
+            "power" :[
+                {
+                    "against_shield" : 20,
+                    "without_shield" : 50
+                }
+            ]
+        }
+    ]
+}

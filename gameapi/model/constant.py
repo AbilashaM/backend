@@ -1,0 +1,2 @@
+EMAILID="emailId"
+PASSWORD="password"
